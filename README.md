@@ -1,12 +1,6 @@
 # 💫 About Me:
 👋 Hi, I'm Elijah Twaine<br>I'm a curious mind exploring the intersection of data, logic, and creativity. Currently diving deep into data science, where I get to blend my love for programming, problem-solving, and meaningful design.<br>🔍 What I'm learning:<br>- Python for data analysis<br>- Statistics & machine learning fundamentals<br>- Data visualization and storytelling<br>- Real-world applications that make data feel human<br>🛠️ What I bring to the table:<br>- Strong foundation in C programming and discrete structures<br>- Passion for symbolic design and visual clarity<br>- Quick adaptability and a knack for troubleshooting<br>🌏 Based in the Philippines, I’m proud to root my work in culture, community, and clarity. Whether it’s a logo or a logical proof, I aim for harmony in every project.<br>📈 Let’s connect, collaborate, and make data beautiful<br>
 
-<div align="flex">
-  <img height="200" src="tenor.gif"  />
-  <img height="200" src="https://tenor.com/view/anime-unclephuc-cyberpunk-edgerunners-lucy-gif-12468677784408499870">
-</div>
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/twaiinee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/twaiinee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/twaiinee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:twainemarquez@gmail.com) 
 
