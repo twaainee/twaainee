@@ -32,8 +32,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[twaainee]/[twaainee]/output/pacman-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
-
 ###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
