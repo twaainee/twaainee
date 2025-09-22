@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Elijah Twaine<br>Aspiring data scientist and web developer exploring how data, design, and interactivity shape the world. Currently learning Python, machine learning, mathematics, and building immersive web experiences with 3D development.<br>🔍 What I'm learning:<br>- Python for data analysis<br>- Statistics & machine learning fundamentals<br>- Data visualization and storytelling<br>- Real-world applications that make data feel human<br>🛠️ What I bring to the table:<br>- Strong foundation in C programming and discrete structures<br>- Passion for symbolic design and visual clarity<br>- Quick adaptability and a knack for troubleshooting<br>🌏 Based in the Philippines, I’m proud to root my work in culture, community, and clarity. Whether it’s a logo or a logical proof, I aim for harmony in every project.<br>📈 Let’s connect, collaborate, and make data beautiful<br>
+👋 Hi, I'm Elijah Twaine<br>Aspiring data scientist and web developer exploring how data, design, and interactivity shape the world. Currently learning Python, machine learning, mathematics, and building immersive web experiences with 3D development.<br>🔍 What I'm learning:<br>- Python for data analysis<br>- Statistics & machine learning fundamentals<br>- Data visualization and storytelling<br>- Real-world applications that make data feel human<br>🛠️ What I bring to the table:<br>- Strong foundation in C programming and discrete structures<br>- Passion for symbolic design and visual clarity<br>- Quick adaptability and a knack for troubleshooting<br>🌏 Based in the Philippines, I’m proud to root my work in culture, community, and clarity. I aim for harmony in every project.<br>📈 Let’s connect, collaborate, and make data and web beautiful<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/twaiinee) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/twaiinee) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/twaiinee) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:twainemarquez@gmail.com) 
@@ -11,15 +11,14 @@
 
 # 📊 GitHub Stats:
 
-| ![](https://nirzak-streak-stats.vercel.app/?user=twaainee&theme=dracula&hide_border=false) | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twaainee&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="496"/> |
-|:--:|:--:|
+![](https://nirzak-streak-stats.vercel.app/?user=twaainee&theme=dracula&hide_border=false)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twaainee&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="496" height="auto"/>
 
-<div align="center">
-  <img src="iroha-illit.gif" alt="Animated GIF 1" width="180"/>
-  <img src="wonhee_illit.gif" alt="Animated GIF 2" width="180"/>
-  <img src="moka_illit.gif" alt="Animated GIF 3" width="180"/>
-  <img src="minju-illit.gif" alt="Animated GIF 4" width="180"/>
-  <img src="yunah-illit.gif" alt="Animated GIF 5" width="180"/>
+<div align="left">
+  <img src="iroha-illit.gif" alt="Animated GIF 1" width="195"/>
+  <img src="wonhee_illit.gif" alt="Animated GIF 2" width="195"/>
+  <img src="moka_illit.gif" alt="Animated GIF 3" width="195"/>
+  <img src="minju-illit.gif" alt="Animated GIF 4" width="195"/>
+  <img src="yunah-illit.gif" alt="Animated GIF 5" width="195"/>
 </div>
 
 ## 🏆 GitHub Trophies
