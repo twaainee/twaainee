@@ -14,11 +14,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=twaainee&theme=dracula&hide_border=false)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twaainee&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="496" height="auto"/>
 
 <div align="left">
-  <img src="iroha-illit.gif" alt="Animated GIF 1" width="170"/>
-  <img src="wonhee_illit.gif" alt="Animated GIF 2" width="170"/>
-  <img src="moka_illit.gif" alt="Animated GIF 3" width="170"/>
-  <img src="minju-illit.gif" alt="Animated GIF 4" width="170"/>
-  <img src="yunah-illit.gif" alt="Animated GIF 5" width="170"/>
+  <img src="iroha-illit.gif" alt="Animated GIF 1" width="150"/>
+  <img src="wonhee_illit.gif" alt="Animated GIF 2" width="15"/>
+  <img src="moka_illit.gif" alt="Animated GIF 3" width="150"/>
+  <img src="minju-illit.gif" alt="Animated GIF 4" width="150"/>
+  <img src="yunah-illit.gif" alt="Animated GIF 5" width="150"/>
 </div>
 
 ## 🏆 GitHub Trophies
