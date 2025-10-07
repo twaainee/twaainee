@@ -11,7 +11,7 @@
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=twaainee&theme=dracula&hide_border=false)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twaainee&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="420" height="auto"/>
+![](https://nirzak-streak-stats.vercel.app/?user=twaainee&theme=dracula&hide_border=false)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=twaainee&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" width="496" height="auto"/>
 
 <div align="left">
   <img src="iroha-illit.gif" alt="Animated GIF 1" width="150"/>
