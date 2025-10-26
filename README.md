@@ -21,7 +21,7 @@
   <img src="yunah-illit.gif" alt="Animated GIF 5" width="150"/>
 </div>
 
-## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=twaainee&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 ---
